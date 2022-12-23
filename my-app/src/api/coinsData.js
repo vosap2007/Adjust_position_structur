@@ -25,3 +25,14 @@ export const coinsData = [
     perspective: '+12.90 PEM',
   },
 ];
+
+export const coinsMetadata = {
+  deposit: {
+    name: 'PEM',
+    balance: '5.33',
+  },
+  borrow: {
+    name: 'PEM',
+    balance: '5.33',
+  },
+};
